@@ -1,16 +1,9 @@
 # flutter_state_management
 
-A new Flutter project.
+A Flutter project to study flutter state management.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+im studying/practicing flutter state management based on this video
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Fluterando: Domine o Gerenciamento de Estado no Flutter: Tudo o que Você Precisa Saber!](https://www.youtube.com/watch?v=XGjCatQadrk)
